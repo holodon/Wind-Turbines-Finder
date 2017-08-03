@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WEA Suche</string>
+    <string name="title_activity_maps">AnlagenSuche</string>
+    <string name="deutschlandkarte">german_map</string>
+    <string name="input_here">WEA/Park hier eingeben</string>
+    <string name="about">\?</string>
+    <string name="update">Update</string>
+</resources>
