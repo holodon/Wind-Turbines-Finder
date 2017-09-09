@@ -17,5 +17,6 @@ I made this originally as a helper tool for me at work (service technician), to 
 - insert in MainActivity L.184-185 the server IP adress and route to the file/s
 
 #### This project makes use of OpenCSV (http://opencsv.sourceforge.net/)
+See it in action: [YouTube Video](https://youtu.be/fkMzzczyLYU)
 
 ![alt text](screens/screenshot_1.png "Screen 1")![alt text](screens/screenshot_2.png "Screen 2")![alt text](screens/screenshot_3.png "Screen 3")
