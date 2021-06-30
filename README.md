@@ -14,7 +14,7 @@ I made this originally as a helper tool for me at work (service technician), to 
 
 - create Your app/build.gradle
 - insert Your google_maps_key in res/strings
-- insert in MainActivity L.184-185 the server IP adress and route to the file/s
+- insert in MainActivity L.184-185 the server IP address and route to the file/s
 
 #### This project makes use of OpenCSV (http://opencsv.sourceforge.net/)
 See it in action: [YouTube Video](https://youtu.be/fkMzzczyLYU)
